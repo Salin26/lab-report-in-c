@@ -1,6 +1,6 @@
-# lab-report-1
+# lab-report in c
 Starting to organize my academic journey with proper version control.
-# Lab Report 1 - C Programming Basic Examples
+# Lab Report - C Programming 
 
 ## Subject
 Computer Programming Laboratory (CSE 1383)
